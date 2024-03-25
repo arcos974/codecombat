@@ -104,7 +104,7 @@
     "deku": "^2.0.0-rc16",
     "delighted": "^1.2.0",
     "event-hooks-webpack-plugin": "^1.0.0",
-    "express": "^4.14.0",
+    "express": "^4.19.2",
     "express-useragent": "^1.0.4",
     "extract-text-webpack-plugin": "^3.0.1",
     "fastclick": "~1.0.3",
